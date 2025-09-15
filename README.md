@@ -37,5 +37,5 @@ mehrkaan-mehendi-app/
 
 ### 🔹 1. Clone Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/mehrkaan-mehendi-app.git
+git clone https://github.com/Qurrath786/mehrkaan-mehendi-app.git
 cd mehrkaan-mehendi-app
