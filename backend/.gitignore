@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Databases
+*.db
+
+# Alembic
+migrations/
+
+# Node.js
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
